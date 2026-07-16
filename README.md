@@ -40,7 +40,7 @@ The Neovim setup is built on [LazyVim](https://www.lazyvim.org/), extended with 
 
 **Workspace 1 — Terminal & Development**
 ![Workspace 1](screenshots/1st-workspace.png)
-`fastfetch` system info alongside a Neovim session editing Go code (P2P networking project), with a reference book split open for context.
+`fastfetch` system info alongside a Neovim session editing Go code, with a reference book split open for context.
 
 </td>
 <td width="50%">
