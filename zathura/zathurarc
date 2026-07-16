@@ -1,0 +1,46 @@
+# this is the zathura conf
+
+# UI
+set guioptions none
+set statusbar-home-tilde true
+set selection-clipboard clipboard
+
+# Smooth scrolling
+set smooth-scroll true
+set scroll-step 50
+
+# Recolor (optional, disable for normal PDFs)
+set recolor false
+
+# Transparent UI
+set default-bg rgba(00000000)
+set default-fg #ECEFF4
+
+# Completion
+set completion-bg rgba(111111cc)
+set completion-fg #ECEFF4
+set completion-highlight-bg #89b4fa
+set completion-highlight-fg #1e1e2e
+
+# Status bar
+set statusbar-bg rgba(111111cc)
+set statusbar-fg #ECEFF4
+
+# Input bar
+set inputbar-bg rgba(111111cc)
+set inputbar-fg #ECEFF4
+
+# Notifications
+set notification-bg rgba(111111cc)
+set notification-fg #ECEFF4
+
+# Font
+set font "JetBrainsMono Nerd Font 12"
+
+#make it black for the blur
+set recolor true
+set recolor-keephue true
+
+set recolor-lightcolor "#000000"
+set recolor-darkcolor "#ffffff"
+

@@ -1,0 +1,6 @@
+grimblast-git
+hyprsysteminfo
+python-screeninfo
+spicetify-cli
+yay-bin
+yay-bin-debug
