@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐧 Garmx Dotfiles
+# Garmx Dotfiles
 
 **A personal Arch Linux desktop configuration built around Hyprland**
 
@@ -212,7 +212,7 @@ chmod +x install.sh
 
 ---
 
-## 🙏 Credits
+## Credits
 
 Special thanks to:
 
@@ -223,6 +223,6 @@ Special thanks to:
 
 <div align="center">
 
-Made with 💙 by [garmx](https://github.com/garmxw)
+Made by [garmx](https://github.com/garmxw)
 
 </div>
